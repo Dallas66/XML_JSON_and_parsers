@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation='testxsd.xsd'>
+    <category name = "t-shirts">
+            <product id ="1">
+                <manufacturer>Mango</manufacturer>
+                <model>aa333</model>
+                <date>10-11-2018</date>
+                <color>red</color>
+                <price>150</price>
+                <count>121</count>
+            </product>
+            <product id ="2">
+                <manufacturer>HandM</manufacturer>
+                <model>aa345</model>
+                <date>01-01-2020</date>
+                <color>blue</color>
+                <price>18.3</price>
+                <count>1500</count>
+            </product>
+            <product id ="3">
+                <manufacturer>Lacoste</manufacturer>
+                <model>aa485</model>
+                <date>28-07-2016</date>
+                <color>yellow</color>
+                <price>12000</price>
+                <count>3</count>
+            </product>
+    </category>
+    <category name="jeans">
+        <product id ="1">
+            <manufacturer>Boss</manufacturer>
+            <model>bb485</model>
+            <date>13-01-2018</date>
+            <color>ocean_wave</color>
+            <price>22000</price>
+            <count>3</count>
+        </product>
+    </category>
+</shop>
